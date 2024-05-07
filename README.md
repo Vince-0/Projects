@@ -1,15 +1,26 @@
 # Projects 
 ## [Microsoft Teams gateway - FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
-MS Teams compatible PJSIP NAT module for Asterisk under FreePBX
+Compile and/or install an MS Teams compatible PJSIP NAT module for Asterisk under FreePBX.
 
 ## Microsoft Teams gateway - Freeswitch
+
+
 ## WebRTC server - Asterisk
+
+
 ## WebRTC server - Freeswitch
+
+
 ## VOIP speech to text
+
+
 ## VOIP text to speech
+
+
 ## VOIP conversational AI
 
-## Contact Me
+
+# Contact Me
 - [LinkedIn](https://www.linkedin.com/in/vincentswart)
 
 ## 
