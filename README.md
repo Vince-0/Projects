@@ -7,6 +7,7 @@ Freeswitch
 
 ## VOIP conversational AI
 [OpenSIPS AI Connector](https://github.com/Vince-0/AI-Voice-Connector)
+Connect VOIP SIP calls using OpenSIPS to a conversational AI provider like Deepgram and OpenAI
 
 ## WebRTC server 
 Asterisk
