@@ -18,5 +18,5 @@ Connect VOIP SIP calls using OpenSIPS to a conversational AI provider like Deepg
 ## Python Log Parser
 [Python Log Parser](https://github.com/Vince-0/Log-parser)
 
-Python script to log files to identify and report specific keywords and their associated
+Python script to parse log files to identify and report specific keywords and their associated
 contexts.
