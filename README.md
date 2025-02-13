@@ -20,3 +20,6 @@ Connect VOIP SIP calls using OpenSIPS to a conversational AI provider like Deepg
 
 Python script to parse log files to identify and report specific keywords and their associated
 contexts.
+
+## Linux Security Basics
+[Security basics for a fresh Linux install](https://github.com/Vince-0/Security-Basics)
