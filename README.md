@@ -10,6 +10,9 @@ Bash script to compile or download and install a MS Teams Direct Routing compati
 Connect VOIP SIP calls using OpenSIPS to a conversational AI provider like Deepgram and OpenAI
 
 ## VOIP WebRTC Server 
+[FreeSWITCH WebRTC Server](https://github.com/Vince-0/FreeSWITCH_WEBRTC)
+
+Connect web application and VOIP endpoints
 
 ## VOIP Speech To Text
 
