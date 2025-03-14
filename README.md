@@ -1,18 +1,18 @@
 # Projects 
 ## VOIP Microsoft Teams Gateway
-[Asterisk + FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
+[MS Teams Asterisk + FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
 
 Bash script to compile or download and install a MS Teams Direct Routing compatible PJSIP NAT module for Asterisk under FreePBX.
 
 ## VOIP Conversational AI
 [OpenSIPS AI Connector](https://github.com/Vince-0/AI-Voice-Connector)
 
-Connect VOIP SIP calls using OpenSIPS to a conversational AI provider like Deepgram and OpenAI
+Connect VOIP SIP calls using OpenSIPS to a conversational AI providers like Deepgram and OpenAI.
 
 ## VOIP WebRTC Server 
 [FreeSWITCH WebRTC Server](https://github.com/Vince-0/FreeSWITCH_WEBRTC)
 
-Connect web application and VOIP endpoints
+Connect WebRTC web applications and and VOIP endpoints using a FreeSWITCH server.
 
 ## VOIP Speech To Text
 
@@ -25,4 +25,5 @@ Python script to parse log files to identify and report specific keywords and th
 contexts.
 
 ## Linux Security Basics
-[Security basics for a fresh Linux install](https://github.com/Vince-0/Security-Basics)
+[Linux Security Notes](https://github.com/Vince-0/Security-Basics)
+Basics for securing user, SSH and iptables on a fresh Linux install.
