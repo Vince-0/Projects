@@ -26,4 +26,5 @@ contexts.
 
 ## Linux Security Basics
 [Linux Security Notes](https://github.com/Vince-0/Security-Basics)
+
 Basics for securing user, SSH and iptables on a fresh Linux install.
