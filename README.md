@@ -17,7 +17,7 @@ Connect WebRTC web applications and and VOIP endpoints using a FreeSWITCH.
 ## VOIP WebRTC Client
 [SIP.js WebRTC Client](https://github.com/Vince-0/WebRTC_client)
 
-Connect phone calls from a browser to a web socket server using FreeSWITCH.
+Connect phone calls from a browser application to a web socket server like FreeSWITCH.
 
 ## VOIP Speech To Text
 
