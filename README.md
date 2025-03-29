@@ -23,8 +23,8 @@ Connect phone calls from a browser to a web socket server using FreeSWITCH.
 
 ## VOIP Text To Speech
 
-## Python Log Parser
-[Log Parser](https://github.com/Vince-0/Log-parser)
+## Log Parser
+[Log Parser Python script](https://github.com/Vince-0/Log-parser)
 
 Parse log files to identify and report specific keywords and their associated contexts.
 
