@@ -5,6 +5,11 @@
 
 Notes for AI assisted programming tools
 
+## Bitcoin Node Manager
+[Bitcoin Node Manager](https://github.com/Vince-0/btcnman)
+
+Monitor and manage a Bitcoin node with this web application
+
 ## VOIP Conversational AI
 [OpenSIPS AI Connector](https://github.com/Vince-0/AI-Voice-Connector)
 
