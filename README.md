@@ -1,9 +1,9 @@
 # Projects 
 
 ## AI Assisted Software Development
-[AI Coding round 1](https://github.com/Vince-0/AI_Coding)
+[AI Coding round 1](https://github.com/Vince-0/AI_Coding): making SIP.js WebRTC Client Chrome Extension
 
-[Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding)
+[Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding): making Bitcoin Node Manager
 
 Notes for AI assisted programming tools
 
