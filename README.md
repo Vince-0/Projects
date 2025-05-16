@@ -1,7 +1,9 @@
 # Projects 
 
 ## AI Assisted Software Development
-[AI Coding Notes](https://github.com/Vince-0/AI_Coding)
+[AI Coding round 1](https://github.com/Vince-0/AI_Coding)
+
+[Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding)
 
 Notes for AI assisted programming tools
 
