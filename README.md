@@ -1,47 +1,59 @@
 # Projects 
 
 ## AI Assisted Software Development
-[AI Coding round 1](https://github.com/Vince-0/AI_Coding): making SIP.js WebRTC Client Chrome Extension
-
-[Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding): making Bitcoin Node Manager
 
 Notes for AI assisted programming tools
 
-## Bitcoin Node Manager
-[Bitcoin Node Manager](https://github.com/Vince-0/btcnman)
+[AI Coding round 1](https://github.com/Vince-0/AI_Coding): Creating a SIP.js WebRTC Client Chrome Extension
 
+[Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding): Creating a Bitcoin Node Manager
+
+[Adventures In AI Coding 2](https://github.com/Vince-0/AdventuresInAICoding2): Creating a Smash Bors because I misspelt Bro's.
+
+## Bitcoin Node Manager
 Monitor and manage a Bitcoin node with this web application
 
+[Bitcoin Node Manager](https://github.com/Vince-0/btcnman)
+
+
 ## VOIP Conversational AI
-[OpenSIPS AI Connector](https://github.com/Vince-0/AI-Voice-Connector)
 
 Connect VOIP SIP calls using OpenSIPS to a conversational AI providers like Deepgram and OpenAI.
 
+[OpenSIPS AI Connector](https://github.com/Vince-0/AI-Voice-Connector)
+
 ## VOIP WebRTC Server 
-[FreeSWITCH WebRTC Server](https://github.com/Vince-0/FreeSWITCH_WEBRTC)
 
 Connect WebRTC web applications and and VOIP endpoints using a FreeSWITCH.
 
+[FreeSWITCH WebRTC Server](https://github.com/Vince-0/FreeSWITCH_WEBRTC)
+
 ## VOIP WebRTC Client
+
+Connect phone calls from a browser application to a web socket server like FreeSWITCH.
+
 [SIP.js WebRTC Client](https://github.com/Vince-0/WebRTC_client)
 
 [SIP.js WebRTC Client Chrome Extension](https://github.com/Vince-0/webrtc-chrome)
 
-Connect phone calls from a browser application to a web socket server like FreeSWITCH.
 
 ## VOIP Microsoft Teams Gateway
-[MS Teams Asterisk + FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
 
 Connect phone VOIP calls from MS Teams using Direct Routing compatible PJSIP NAT module for Asterisk under FreePBX.
 
+[MS Teams Asterisk + FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
+
 ## Log Parser
-[Log Parser Python script](https://github.com/Vince-0/Log-parser)
 
 Parse log files to identify and report specific keywords and their associated contexts.
 
+[Log Parser Python script](https://github.com/Vince-0/Log-parser)
+
 ## Linux Security Basics
-[Linux Security Notes](https://github.com/Vince-0/Security-Basics)
 
 Notes for the basics of securing user, secure shell and firewall on a fresh Linux install.
+
+[Linux Security Notes](https://github.com/Vince-0/Security-Basics)
+
 
 
