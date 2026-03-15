@@ -43,6 +43,8 @@ Connect phone VOIP calls from MS Teams using Direct Routing compatible PJSIP NAT
 
 [MS Teams Asterisk + FreePBX](https://github.com/Vince-0/MSTeams-FreePBX)
 
+[MS Teams Asterisk prebuilt PJSIP modules](https://github.com/Vince-0/MSTeams-PJSIPNAT)
+
 ## Log Parser
 
 Parse log files to identify and report specific keywords and their associated contexts.
