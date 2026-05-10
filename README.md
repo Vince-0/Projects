@@ -10,6 +10,8 @@ Notes for AI assisted programming tools
 
 [Adventures In AI Coding 2](https://github.com/Vince-0/AdventuresInAICoding2): Creating a Smash Bors because I misspelt Bro's.
 
+[Adventures In AI Coding 3](https://github.com/Vince-0/AdventuresInAICoding3): Local LLM Tinerking with Multi-Token Prediction. 
+
 ## Bitcoin Node Manager
 Monitor and manage a Bitcoin node with this web application
 
